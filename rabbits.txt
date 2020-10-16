@@ -2,3 +2,5 @@ Rabbits are nicer than squirrels.
 Christine likes rabbits. 
 Christine doesn't like squirrels.
 Ece likes chipmunks.
+
+Rose was here.
