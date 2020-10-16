@@ -1,4 +1,5 @@
-Rabbits are nicer than squirrels. 
-Christine likes rabbits. 
+Rabbits are nicer than squirrels.
+Christine likes rabbits.
 Christine doesn't like squirrels.
 Ece likes chipmunks.
+Madeline likes both.
